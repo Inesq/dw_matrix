@@ -1,2 +1,6 @@
-# dw_matrix
-Projekt transformacja, czyli Matrix 
+# Projekt transformacja, czyli Matrix 
+
+5 dni z projektu transformacja - Matrix część pierwsza
+- a
+- b
+- c
